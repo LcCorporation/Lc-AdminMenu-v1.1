@@ -1,0 +1,2 @@
+# Lc-AdminMenu
+Fivem script
